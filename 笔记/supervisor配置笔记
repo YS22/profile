@@ -1,1 +1,0 @@
-1.每次 修改主配置文件 或 增改子配置文件 都需要执行 supervisorctl update 使新配置生效
